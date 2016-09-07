@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" id="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+	<title>Inner Teacher</title>
+	<link rel="stylesheet" href="css/bootstrap-grid-3.3.1.min.css">
+	<link rel="stylesheet" href="css/lvl.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body id="top">
+<div class="preloader">
+	<img src="images/logo.png" alt="Preloader image">
+  <div class="preloader_num">0%</div>
+  <div class="preloader_line"></div>
+</div>
+<!--START HEADER-->
+<header class="internal-pages">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="logo">
+					<a href="index.html">
+						<img src="images/logo.png" alt="#">
+					</a>
+				</div>
+				<ul class="menu">
+                    <li class="modal"><i class="ic-application"></i>заявка</li>
+				    <li class="mnu">
+                        <div class="hamburger hamburger--spring js-hamburger">
+                            <div class="hamburger-box">
+                                  <div class="hamburger-inner"></div>
+                            </div>
+                        </div>
+                         Меню
+                    </li>
+                    <li class="search"><input type="search"><i class="ic-magnify"></i></li>
+				</ul>
+				<ul class="menu-buttom">
+				    <li><a href="#">главная</a></li>
+				    <li><a href="#">о школе</a></li>
+				    <li><a href="#">курсы</a></li>
+				    <li><a href="#">новости</a></li>
+				    <li><a href="#">преподы</a></li>
+				    <li><a href="#">отзывы</a></li>
+				    <li class="active"><a href="#">контакты</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</header>
+
+
+
+<div class="submenu">
+   <div class="container">
+    <div class="hamburger is-active hamburger--spring js-hamburger">
+        <div class="hamburger-box">
+              <div class="hamburger-inner"></div>
+        </div>
+    </div>
+    <div class="header-block-left">
+        <h3 class="title">A-level ukrain</h3>
+        <ul>
+            <li><a href="#">О школе</a></li>
+            <li><a href="#">Преподы</a></li>
+            <li><a href="#">Получить скидку</a></li>
+            <li><a href="#">Сотрудничество</a></li>
+            <li><a href="#">Блог</a></li>
+        </ul>
+    </div>
+
+
+    <div class="header-block-center">
+        <h3 class="title">Направления обучения</h3>
+        <p>Основы программирования</p>
+        <ul>
+            <li><a href="#">Web serwers wizard</a></li>
+            <li><a href="#">Progect manegment</a></li>
+            <li><a href="#">Front-end</a></li>
+            <li><a href="#">PHP продвинутый</a></li>
+            <li><a href="#">PHP базовый</a></li>
+            <li><a href="#">IT sales</a></li>
+            <li><a href="#">QA тестирование</a></li>
+            <li><a href="#">Web design</a></li>
+        </ul>
+    </div>
+
+
+    <div class="header-block-right">
+        <h3 class="title">Контакты</h3>
+        <ul class="contacts">
+            <li>
+                <i class="ic-phone"></i>
+                <div>
+                    <a href="tel:+3 8(096) 233-08-03">+3 8(096) 233-08-03</a>
+                    <a href="tel:+3 8(096) 233-08-03">+3 8(096) 233-08-03</a>
+                </div>
+            </li>
+            <li>
+                <i class="ic-telegram"></i>
+                <a href="mailto:A-level.ua@gmail.com">A-level.ua@gmail.com</a>
+            </li>
+            <li>
+                <i class="ic-map-marker"></i>
+                <div>
+                    <a href="https://www.google.com.ua/maps/place/43B,+%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F+%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0,+43%D0%91,+%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2,+%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/@50.006387,36.2347861,18z/data=!3m1!4b1!4m5!3m4!1s0x4127a0de435d1657:0x92f43e0454946df2!8m2!3d50.0063853!4d36.2358804?hl=ru" target="_blank">г. Харьков <span>ул, Сумская 43-б</span></a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    </div>    
+</div> 
+<!--END HEADER-->
+
+
+<!--START CONTENT-->
+<section class="inner-news">
+    
+	<div class="container-fluid banner">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="banner row">
+				    <h1 class="title">Workshop: Creating a Design <br>Process for Digital User <br> Experience <span class="date">22.08.2016</span></h1>
+				    <div class="arrow-bottom"><a href="#bottom-scroll"><i class="ic-arrow-down"></i></a></div>
+                </div>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+			    <div class="description" id="bottom-scroll"> 
+			        <img src="images/soc.png" alt="#">
+			        <h3 class="title">Создание интернет-магазина</h3>
+			        <p>Вот и лето постепенно подходит к концу, а у нас Design Evening 12.0. Для нас выступит преподаватель Харьковской государственной академии дизайна и искусств Закалюжная Людмила.</p>
+			        <p class="text">Людмила уже 13 лет преподает основы композиции, проектную графику, макетирование и моделирование упаковки на кафедре графического дизайна. Автор более 20 научных публикаций.<span> Карина Игорева</span></p>
+			        <p>5 августа на Design Evening 12.0 особенно уделим внимание композиции ПЛАКАТА. Мы рассмотрим:</p>
+			        <ul>
+			            <li>композицию в изобразительном искусстве и дизайне;</li>
+			            <li>композицию в графическом дизайне;</li>
+			            <li>плакат и особенности его построения.</li>
+			        </ul>
+			        <p><b>Спикеры:</b></p>
+			        <ul>
+			            <li>Станислав Кришталь (Харьков) - один из ведущих дизайнеров Art Lemon Studio (.<a href="#">http://art-lemon.com</a>)</li>
+			            <li>Юрий Бабич (Киев), один из основателей компании The MakeApp (http://themakeapp.com), которая разрабатывала приложения для Новой Почты и Nestle.</li>
+			            <li>Артем Толстых (Киев), основатель диджитал агенства Lookamore (https://lookamore.com). 16 лет в сфере дизайна. В его резюме разработка mobile client для UkrNet.</li>
+			        </ul>
+			        <ul>
+			            <li><span>Когда:</span> 22 июля в 18:30</li>
+			            <li><span>Где:</span> Lemon HUB, Московский проспект 122, ст. м. "Завод им.Малышева ", Харьков. </li>
+			            <li><span>Стоимость участия:</span> 70 грн</li>
+			        </ul>
+			        <a href="#" class="button">регистрация</a>
+			        <p>Узнайте о мероприятиях <a href="#">A-level</a> больше в группе <a href="#">ВКонтакте</a> и <a href="#">Фейсбуке</a></p>
+				</div>
+				
+				<div class="sitebar">
+				    <form action="">
+				        <img src="" alt="">
+				        <p></p>
+				        <input type="text" placeholder="Ваше имя">
+				        <input type="email" placeholder="E-mail address">
+				        <input type="submit" value="Подписаться">
+				    </form>
+				    <img src="images/sitebar-img-.png" alt="">
+				    <h4 class="title">Последние новости</h4>
+				    <ul>
+				        <li><span>22.08</span> <a href="#">Рунетология: Михаил Токовинин, сооснователь amoCRM</a></li>
+				        <li><span>22.08</span> <a href="#">Побеждает сильнейший: 9 причин хотя бы чуть-чуть знать HTML и CSS</a></li>
+				        <li><span>22.08</span> <a href="#">Рунетология: Михаил Токовинин, сооснователь amoCRM</a></li>
+				        <li><span>22.08</span> <a href="#">Побеждает сильнейший: 9 причин хотя бы чуть-чуть знать HTML и CSS</a></li>
+				    </ul>
+				    <img src="images/sitebar-img-2.png" alt="">
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	
+</section>
+<!--START CONTENT-->
+
+
+<!--START FOOTER-->
+<footer>
+	<div class="container">
+	    <div class="row">
+	        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	            <div class="arrow-top"><a href="#top"><i class="ic-chevron-right"></i></a></div>
+	            
+	            
+	            <div class="footer-block-left">
+	                <div class="logo"><a href="#"><img src="images/logo.png" alt=""></a></div>
+	                <h3 class="title">A-level ukrain</h3>
+	                <ul>
+	                    <li><a href="#">О школе</a></li>
+	                    <li><a href="#">Преподы</a></li>
+	                    <li><a href="#">Получить скидку</a></li>
+	                    <li><a href="#">Сотрудничество</a></li>
+	                    <li><a href="#">Блог</a></li>
+	                </ul>
+	            </div>
+	            
+	            
+	            <div class="footer-block-center">
+	                <h3 class="title">Направления обучения</h3>
+	                <p>Основы программирования</p>
+	                <ul>
+	                    <li><a href="#">Web serwers wizard</a></li>
+	                    <li><a href="#">Progect manegment</a></li>
+	                    <li><a href="#">Front-end</a></li>
+	                    <li><a href="#">PHP продвинутый</a></li>
+	                    <li><a href="#">PHP базовый</a></li>
+	                    <li><a href="#">IT sales</a></li>
+	                    <li><a href="#">QA тестирование</a></li>
+	                    <li><a href="#">Web design</a></li>
+	                </ul>
+	            </div>
+	            
+	            
+	            <div class="footer-block-right">
+                    <h3 class="title">Контакты</h3>
+                    <ul class="contacts">
+                        <li>
+                            <i class="ic-phone"></i>
+                            <div>
+                                <a href="tel:+3 8(096) 233-08-03">+3 8(096) 233-08-03</a>
+                                <a href="tel:+3 8(096) 233-08-03">+3 8(096) 233-08-03</a>
+                            </div>
+                        </li>
+                        <li class="request-a-call">
+                            <a href="#">заказать звонок</a>
+                        </li>
+                        <li>
+                            <i class="ic-telegram"></i>
+                            <a href="mailto:A-level.ua@gmail.com">A-level.ua@gmail.com</a>
+                        </li>
+                        <li>
+                            <i class="ic-map-marker"></i>
+                            <div>
+                                <a href="https://www.google.com.ua/maps/place/43B,+%D0%B2%D1%83%D0%BB%D0%B8%D1%86%D1%8F+%D0%A1%D1%83%D0%BC%D1%81%D1%8C%D0%BA%D0%B0,+43%D0%91,+%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2,+%D0%A5%D0%B0%D1%80%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C/@50.006387,36.2347861,18z/data=!3m1!4b1!4m5!3m4!1s0x4127a0de435d1657:0x92f43e0454946df2!8m2!3d50.0063853!4d36.2358804?hl=ru" target="_blank">г. Харьков <span>ул, Сумская 43-б</span></a>
+                            </div>
+                        </li>
+                    </ul>
+                    <h3 class="title">Мы в соц.сетях</h3>
+	                <ul class="soc">
+                        <li><a href="#"><i class="ic-vk"></i></a></li>
+                        <li><a href="#"><i class="ic-facebook"></i></a></li>
+                        <li><a href="#"><i class="ic-pinterest"></i></a></li>
+                        <li><a href="#"><i class="ic-behance"></i></a></li>
+                    </ul>
+	            </div>
+	            
+	            
+	            <h4 class="title">Оствте свой e-mail,что бы получать самые интересные новости мира IT</h4>
+	            <form action="#">
+	                <input type="email" placeholder="E-mail address">
+	                <input type="submit" value="отправить">
+	            </form>
+	         
+	            
+	        </div>
+	    </div>
+	</div>
+</footer>
+   
+<!--END FOOTER-->
+
+
+<!--START MODAL-->
+<section class="modal-container">
+    <div class="hamburger is-active hamburger--spring js-hamburger">
+        <div class="hamburger-box">
+              <div class="hamburger-inner"></div>
+        </div>
+    </div>
+    <form action="#" class="enroll-in-a-course">
+        <p>Я,</p>
+        <div class="input">
+            <input type="text" placeholder="Имя и Фамилия">
+            <label for="#"></label>
+        </div>
+        <p>, хочу записаться</p>
+        <p>в <span>A</span>-Level <b>Ukraine</b> на курc</p>
+         <div class="select">
+            <select name="#" id="#"  class="custom-select sources" placeholder="Хочу курс">
+                <option value="#"></option>
+                <option value="#">progect manegment</option>
+                <option value="#">web serwers wizard</option>
+                <option value="#">php базовый</option>
+                <option value="#">php продвинутый</option>
+                <option value="#">front-end</option>
+                <option value="#">it sales</option>
+                <option value="#">qa тестирование</option>
+                <option value="#">web design</option>
+            </select>
+            <label for=""></label>
+        </div>
+        <p>Свяжитесь со мной по телефону</p>
+        <div class="input">
+            <input type="tel" placeholder="+3 8(0">
+            <label for="#"></label>
+        </div>
+        <p>или по e-mail</p>
+        <div class="input">
+            <input type="email" placeholder="e-mail">
+            <label for="#"></label>
+        </div>
+        <input type="submit" class="button" value="отправить заявку">
+    </form>
+</section>
+<!--END MODAL-->
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDoFR4O2S0D5Uebjtxa9hCQ3bx2oiIhZz4&amp;libraries=places'></script>
+<script src="js/jquery.nicescroll.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/common.js"></script>
+<script>
+</script>
+</body>
+</html>

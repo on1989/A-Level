@@ -1,0 +1,78 @@
+<section class="application-form-for-free-training">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                <form action="#">
+                    <div class="hamburger is-active hamburger--spring js-hamburger">
+                        <div class="hamburger-box">
+                              <div class="hamburger-inner"></div>
+                        </div>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="Имя и Фамилия">
+                        <label for=""></label>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="E-mail">
+                        <label for=""></label>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="Телефон">
+                        <label for=""></label>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="Ссылка на фото в соц сети">
+                        <label for=""></label>
+                    </div>
+                    <textarea placeholder="Ваша история"></textarea>
+                    <input type="submit" class="button" value="Отправить">
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="become-a-sponsor">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                <form action="#">
+                   <div class="hamburger is-active hamburger--spring js-hamburger">
+                        <div class="hamburger-box">
+                              <div class="hamburger-inner"></div>
+                        </div>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="Имя и Фамилия">
+                        <label for=""></label>
+                    </div>
+                    <div class="input">
+                        <input type="text" placeholder="E-mail">
+                        <label for=""></label>
+                    </div>
+                    <input type="submit" class="button" value="Отправить">
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script>
+$('.free-training').click(function(){
+    $('.application-form-for-free-training').addClass('active');
+    $('.application-form-for-free-training .hamburger').click(function(){
+      $('.application-form-for-free-training').removeClass('active')
+    });
+});
+    $('.sponsor').click(function(){
+    $('.become-a-sponsor').addClass('active');
+    $('.modal-free-education').removeClass('active');
+
+    $('.become-a-sponsor .hamburger').click(function(){
+      $('.become-a-sponsor').removeClass('active')
+    });
+});
+</script>

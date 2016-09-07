@@ -1,0 +1,21 @@
+{
+    "sass.enabled": false,
+    "sass.compiler": "libsass",
+    "path": {
+        "css/style.scss": {
+            "sass.enabled": true,
+            "sass.options": {
+                "outputDir": "../css/",
+                "imagePath": null,
+                "sourceComments": false,
+                "outputStyle": "expanded"
+            },
+            "linting.collapsed": true,
+            "linting.SCSS.collapsed": true,
+            "eqFTP.projectsPaths": [
+                "D:/ftp"
+            ],
+            "brackets-git.gitPath": "C:\\Program Files\\Git\\cmd\\git.exe"
+        }
+    }
+}
